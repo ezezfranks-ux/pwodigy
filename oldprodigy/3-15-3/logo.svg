@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" role="img" aria-label="Prodigy logo">
+  <defs>
+    <style>
+      .outline { fill: none; stroke: #f59a1c; stroke-width: 18; stroke-linecap: round; stroke-linejoin: round; }
+      .solid { fill: #f59a1c; }
+      .eyes { fill: #f59a1c; }
+      .smile { fill: none; stroke: #f59a1c; stroke-width: 16; stroke-linecap: round; }
+    </style>
+  </defs>
+
+  <g transform="translate(40,10)">
+    <path class="outline" d="M110 310 C 120 210, 170 130, 260 120 C 330 110, 370 150, 390 200 C 410 250, 390 310, 310 330 C 220 350, 140 355, 110 310 Z"/>
+    <path class="outline" d="M90 310 C 70 230, 80 170, 120 140 C 150 115, 200 95, 250 95"/>
+    <path class="outline" d="M395 180 C 440 160, 485 170, 520 210 C 550 245, 570 290, 560 335 C 550 370, 520 390, 480 390 C 430 390, 400 360, 390 320"/>
+
+    <path class="outline" d="M560 200 C 580 130, 650 95, 720 100 C 770 105, 815 125, 840 170 C 870 225, 875 315, 835 355 C 790 398, 715 412, 650 388 C 590 366, 530 326, 560 200 Z"/>
+
+    <path class="outline" d="M250 318 C 330 332, 415 320, 500 285"/>
+    <path class="outline" d="M520 290 C 555 300, 590 300, 620 290"/>
+
+    <g transform="translate(528,100)">
+      <circle class="eyes" cx="25" cy="30" r="18"/>
+      <circle class="solid" cx="25" cy="30" r="8"/>
+      <circle class="eyes" cx="130" cy="30" r="18"/>
+      <circle class="solid" cx="130" cy="30" r="8"/>
+      <path class="smile" d="M35 92 Q 78 130 125 92"/>
+    </g>
+
+    <g transform="translate(170,95)">
+      <text x="0" y="220" font-size="220" font-family=""Comic Sans MS", "Marker Felt", cursive" font-weight="700" fill="#f59a1c" stroke="#f59a1c" stroke-width="9" paint-order="stroke fill" letter-spacing="2">Prodigy</text>
+    </g>
+  </g>
+</svg>
