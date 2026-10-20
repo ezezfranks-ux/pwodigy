@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Brat Simpson style override for Noot">
+  <rect width="200" height="200" fill="#000000"/>
+
+  <g transform="translate(0,0)">
+    <path d="M20 82 L30 48 L40 24 L52 12 L64 0 L78 8 L92 0 L104 14 L116 8 L128 0 L138 18 L150 10 L164 24 L176 54 L180 82 L160 82 L152 60 L136 28 L124 52 L120 82 L86 82 L82 52 L70 28 L56 52 L48 82 L20 82 Z" fill="#2afc52"/>
+
+    <path d="M20 118 L50 118 L60 152 L30 162 Z" fill="#ef1d1d"/>
+    <path d="M150 120 L180 120 L170 162 L142 152 Z" fill="#ef1d1d"/>
+    <path d="M52 118 L148 118 L156 154 L44 154 Z" fill="#ef1d1d"/>
+
+    <g fill="#000000">
+      <circle cx="70" cy="80" r="4"/>
+      <circle cx="118" cy="80" r="4"/>
+    </g>
+
+    <path d="M72 103 Q 100 118 128 103" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>
